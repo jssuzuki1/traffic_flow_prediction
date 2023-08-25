@@ -1,4 +1,5 @@
-# traffic_flow_prediction
+Traffic Flow Prediction in New York
+
 Using LSTM and GRU to predict traffic flows in New York City. 
 
 The two fully relevant files here are 'code_with_output.ipynb' and 'code.py'.
